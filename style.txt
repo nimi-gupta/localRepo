@@ -1,0 +1,5 @@
+p
+{
+    color: red;
+    This file shows paras in red.
+}
